@@ -1,0 +1,18 @@
+# Зависимости
+node_modules/
+
+# Сборка
+dist/
+dist-ssr/
+
+# Локальные настройки и логи
+*.local
+*.log
+npm-debug.log*
+
+# Редакторы и ОС
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
